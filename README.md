@@ -7,9 +7,9 @@
 **Description:**
 In this lab, I captured and analyzed network traffic including DNS queries, ICMP echo requests/replies (ping), and HTTP traffic. Filters were used to isolate specific packet types for detailed analysis. This helped me understand network protocols and packet flow.
 
-*Captured Traffic:*
+**Captured Traffic:**
 
-ICMP Traffic:
+*ICMP Traffic:*
 
 Captured ICMP packets representing a ping request and response between devices. This type of traffic helps monitor network connectivity.
 Filter used: icmp
