@@ -25,6 +25,10 @@ Captured HTTP request and response headers, which demonstrate how data is transf
 Filter used: http
 
 
+![screenshot]
+![screenshot]
+![screenshot]
+
 
 
 
