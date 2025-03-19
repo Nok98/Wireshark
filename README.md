@@ -30,5 +30,3 @@ Filter used: http
 ![screenshot](https://github.com/Nok98/Wireshark/blob/main/Sn%C3%ADmka%20obrazovky%202025-03-19%20195033.png)
 
 
-
-
